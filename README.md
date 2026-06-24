@@ -15,7 +15,7 @@ The app enables users to **search, register, and manage .KE domains seamlessly**
 - 🤖 **Smart Suggestions** – AI-powered domain name recommendations  
 - 💼 **Account Management** – Manage registered domains, renewals, and ownership  
 - 🌐 **Cross-platform** – Works on **Android, iOS, and Web**  
-- 💳 **Future Roadmap** – M-Pesa integration,
+- 💳 **Payment** – M-Pesa integration,
 
 ---
 
